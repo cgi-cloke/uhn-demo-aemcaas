@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/uhn-demo-aemcaas/:/",
+    "/content/uhn-demo-aemcaas/configuration:/.helix/config.json",
+    "/content/uhn-demo-aemcaas/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/uhn-demo-aemcaas/"
   ]
 }
